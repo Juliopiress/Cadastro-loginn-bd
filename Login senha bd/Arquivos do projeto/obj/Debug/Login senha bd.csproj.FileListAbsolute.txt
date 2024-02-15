@@ -1,0 +1,43 @@
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\Login senha bd.exe.config
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\Login senha bd.exe
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\Login senha bd.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\obj\Debug\Login senha bd.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\obj\Debug\Login_senha_bd.FrmLogin.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\obj\Debug\Login_senha_bd.Properties.Resources.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\obj\Debug\Login senha bd.csproj.GenerateResource.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\obj\Debug\Login senha bd.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\obj\Debug\Login senha bd.exe
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\obj\Debug\Login senha bd.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\obj\Debug\Login_senha_bd.FrmCadastro.resources
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\Google.Protobuf.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\MySql.Data.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Buffers.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.IO.Pipelines.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Memory.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\ZstdSharp.dll
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\Google.Protobuf.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\Google.Protobuf.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\MySql.Data.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Buffers.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.IO.Pipelines.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Memory.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\julio\OneDrive\Área de Trabalho\Meus Estudos\Login senha bd\obj\Debug\Login senha bd.csproj.CopyComplete
